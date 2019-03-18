@@ -5,8 +5,7 @@ Hello ,
 
 This is Praveen. i like below scripting languages
 
-pyython
-perl
+python, perl, csh, bash and awk
 
 please post me if you have any questions.
 
